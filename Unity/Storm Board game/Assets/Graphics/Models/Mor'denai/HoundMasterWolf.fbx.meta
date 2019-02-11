@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: c6d7221c1930adc4388c991f1477114b
+timeCreated: 1520276787
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Circle
+    100002: foot.L
+    100004: foot.R
+    100006: front_foot.L
+    100008: front_foot.R
+    100010: front_shin.L
+    100012: front_shin.R
+    100014: front_thigh.L
+    100016: front_thigh.R
+    100018: front_toe.L
+    100020: front_toe.L_end
+    100022: front_toe.R
+    100024: front_toe.R_end
+    100026: //RootNode
+    100028: metarig
+    100030: shin.L
+    100032: shin.R
+    100034: spine.004
+    100036: spine.005
+    100038: spine.006
+    100040: spine.007
+    100042: spine.008
+    100044: spine.009
+    100046: spine.010
+    100048: spine.011
+    100050: spine.011_end
+    100052: spine.012
+    100054: spine.013
+    100056: spine.014
+    100058: spine.015
+    100060: spine.015_end
+    100062: thigh.L
+    100064: thigh.R
+    100066: toe.L
+    100068: toe.L_end
+    100070: toe.R
+    100072: toe.R_end
+    400000: Circle
+    400002: foot.L
+    400004: foot.R
+    400006: front_foot.L
+    400008: front_foot.R
+    400010: front_shin.L
+    400012: front_shin.R
+    400014: front_thigh.L
+    400016: front_thigh.R
+    400018: front_toe.L
+    400020: front_toe.L_end
+    400022: front_toe.R
+    400024: front_toe.R_end
+    400026: //RootNode
+    400028: metarig
+    400030: shin.L
+    400032: shin.R
+    400034: spine.004
+    400036: spine.005
+    400038: spine.006
+    400040: spine.007
+    400042: spine.008
+    400044: spine.009
+    400046: spine.010
+    400048: spine.011
+    400050: spine.011_end
+    400052: spine.012
+    400054: spine.013
+    400056: spine.014
+    400058: spine.015
+    400060: spine.015_end
+    400062: thigh.L
+    400064: thigh.R
+    400066: toe.L
+    400068: toe.L_end
+    400070: toe.R
+    400072: toe.R_end
+    2100000: No Name
+    4300000: Circle
+    7400000: metarig|metarig.001|metarig|metarigAction|metarig|metarigAction
+    7400002: metarig|metarigAction
+    9500000: //RootNode
+    13700000: Circle
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
